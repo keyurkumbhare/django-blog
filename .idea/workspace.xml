@@ -2,60 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb58c484-e2ad-4cdf-82aa-245d3faacfaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/coreyyt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/blog/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/user_posts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coreyyt/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coreyyt/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coreyyt/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coreyyt/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coreyyt/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/IMG_20191113_161305.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/piechart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/signals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/users/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/users/logout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/users/password_reset.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/users/password_reset_complete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/users/password_reset_confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/users/password_reset_done.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/users/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/users/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coreyyt/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/coreyyt/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +93,7 @@
       <workItem from="1590411981893" duration="369000" />
       <workItem from="1590412363835" duration="1771000" />
       <workItem from="1590424615071" duration="1037000" />
-      <workItem from="1590425670973" duration="673000" />
+      <workItem from="1590425670973" duration="1315000" />
     </task>
     <servers />
   </component>
