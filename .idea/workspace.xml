@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bb58c484-e2ad-4cdf-82aa-245d3faacfaf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coreyyt/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/coreyyt/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,7 @@
       <workItem from="1590411981893" duration="369000" />
       <workItem from="1590412363835" duration="1771000" />
       <workItem from="1590424615071" duration="1037000" />
-      <workItem from="1590425670973" duration="1315000" />
+      <workItem from="1590425670973" duration="2220000" />
     </task>
     <servers />
   </component>
